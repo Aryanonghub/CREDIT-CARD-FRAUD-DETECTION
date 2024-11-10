@@ -1,4 +1,4 @@
-Here’s a draft for a GitHub README file for your Credit Card Fraud Detection project. Please let me know if you'd like any modifications or additional details.
+
 
 ---
 
