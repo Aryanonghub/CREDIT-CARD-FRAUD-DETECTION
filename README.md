@@ -46,6 +46,8 @@ Results will be discussed in terms of:
 - **Precision**: The rate of correct positive predictions.
 - **Recall**: The rate at which actual fraudulent cases are identified.
 - **F1-Score**: The harmonic mean of precision and recall, balancing the two metrics.
+- file:///Users/aryanpoddar/Desktop/Screenshot%202024-11-10%20at%205.20.09%E2%80%AFPM.png<img width="1188" alt="Screenshot 2024-11-10 at 5 20 09 PM" src="https://github.com/user-attachments/assets/6958ca65-a052-4d7e-a4ac-268a8ce0ecce">
+
 
 ## Getting Started
 
